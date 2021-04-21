@@ -1,7 +1,7 @@
 # import statistics
 import time
 import datetime
-import secret
+import secret       № use your api keys
 from binance.websockets import BinanceSocketManager
 from binance.client import Client
 
